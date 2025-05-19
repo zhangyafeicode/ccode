@@ -1,0 +1,5 @@
+﻿  3.cpp
+C:\Users\30727\source\repos\text5_19_2\text5_19_2\3.cpp(103,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+C:\Users\30727\source\repos\text5_19_2\text5_19_2\3.cpp(103,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“int”
+C:\Users\30727\source\repos\text5_19_2\text5_19_2\3.cpp(103,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“int”
+C:\Users\30727\source\repos\text5_19_2\text5_19_2\3.cpp(103,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
